@@ -7,12 +7,18 @@ body{
 }
 .header{
     border: 1px solid red;
+    
 }
 .content{
     border: 1px solid green;
+    margin-right: 50%;
+    position: relative;
+    top:   20px:
+    
 }
 .sidebar{
     border: 1px solid  blue;
+    margin-left: 50%;
 }
 .footer{
     border: 1px solid purple;
