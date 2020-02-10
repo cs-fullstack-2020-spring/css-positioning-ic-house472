@@ -11,15 +11,15 @@ body{
 }
 .content{
     border: 1px solid green;
-    margin-right: 50%;
-    position: relative;
-    top:   20px:
-    
+    width: 45%;
+float: left;
 }
 .sidebar{
     border: 1px solid  blue;
-    margin-left: 50%;
+    width: 45%;
+float: right;
 }
 .footer{
     border: 1px solid purple;
+    clear: both;
 }
